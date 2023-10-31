@@ -1,4 +1,10 @@
 
+# # CODSOFT-Python-Programming
+
+# # Task 3 - Random Password Generator
+
+# # Author :- Ravi Pandey
+
 import random
 import string
 
